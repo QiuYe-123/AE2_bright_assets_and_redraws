@@ -132,7 +132,7 @@
 42. infinitypattern
     *  MIT License
 43. invtweaks
-    *  MIT License
+    *  Apache License
     * Completely redrawn, not affected by the project license. This redrawn texture is licensed under MIT.
 44. Modern AE2 Additions
     * Currently every texture/model in here is just a color shifted version of AE2's
@@ -160,7 +160,10 @@
     *  MIT License
 50. Polymorph
     *  GNU LGPL V3.0 License
-51. Wildcard Pattern
+51. unae2addon
+    * All Rights Reserved
+    * Completely redrawn, not affected by the project license. This redrawn texture is licensed under MIT.
+52. Wildcard Pattern
     *  MIT License
 
 # Quote：
@@ -214,7 +217,8 @@
 48. ProgrammedCircuitCard ：https://github.com/yuuki1293/ProgrammedCircuitCard
 49. personalmesystem ： https://github.com/game-design-driven/ae2-personal-me-system
 50. Polymorph ：https://github.com/illusivesoulworks/polymorph
-51. Wildcard Pattern ： https://github.com/LeoDreamer2004/Wildcard-Pattern
+51. unae2addon ：https://www.curseforge.com/minecraft/mc-mods/unae2addon
+52. Wildcard Pattern ： https://github.com/LeoDreamer2004/Wildcard-Pattern
 
 # picture
 Oh no, I don't know how to upload it yet. . . .
