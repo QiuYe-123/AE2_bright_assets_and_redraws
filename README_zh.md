@@ -1,15 +1,17 @@
 # AE2 明亮风格材质与重绘 (AE2 bright assets and redraws)
+**English Version:** [Click here for English documentation](README.md)
+
 这是一个从 Applied Energistics 2 及其附属模块反向移植的高亮材质资源，并对部分材质进行了重新绘制。
 
 ## 主要改动
 1. 显示组件、升级卡槽和网络工具卡槽的纹理不再与终端分离。
-2. 网络工具卡槽纹理已尽可能适配所有工作方块的 GUI（大量纹理包尚未完成此项工作）。
-3. 重新绘制的 AE2Additions 材质采用高亮风格。
-4. 调整了终端槽位等 GUI，使其更加美观。
-5. 重新绘制了一些小众模块的材质，使它们看起来更像亮色系的 AE 设备。
-6. 为少数创造模式专属物品绘制了动态材质。
-7. 修改了快捷栏样式。
-8. 是的，这个纹理包完全是为了视觉效果而诞生的，因此它没有完全遵循 AE2 高亮材质的绘制规则和风格，但我已尽力绘制，这是能力问题。
+2. 网络工具卡槽纹理已尽可能适配所有工作方块的 GUI（许多纹理包尚未完成此项工作）。
+3. AE2Additions 材质已重新绘制，采用高亮风格。
+4. 终端槽位等 GUI 已调整，视觉上更加美观。
+5. 一些小众模块的材质经过重绘，更贴近亮色系 AE 设备的风格。
+6. 少数创造模式专属物品增加了动态纹理。
+7. 快捷栏样式已修改。
+8. 是的，这个纹理包完全出于美观考虑而制作，因此并未严格遵循 AE2 高亮材质的绘制规则和风格，但我已尽力而为——这确实是能力所限。
 
 ## 兼容的模组
 
@@ -215,7 +217,6 @@
 - **原模组**：<https://github.com/reo-ar/InvTweaksRenewed>
 
 ### 43. Modern AE2 Additions
-- 目前此处的每个纹理/模型都只是 AE2 纹理的颜色偏移版本。完全归功于原创艺术家，无意因改变色相而居功。
 - 版权 (c) 2020, [Ridanisaurus Rid](https://github.com/Ridanisaurus/), (c) 2013 - 2020 AlgorithmX2 等人
 - [![许可证](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/3.0/)  
   所有其他资源（包括可能添加的新纹理/模型）均基于 [知识共享 署名-非商业性使用-相同方式共享 4.0 国际](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可授权。

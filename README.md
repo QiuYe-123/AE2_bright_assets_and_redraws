@@ -1,17 +1,17 @@
 # AE2 bright assets and redraws
 **中文版本:** [点击此处查看中文文档](README_zh.md)
 
-This is a backport of highlight material assets from AppliedEnergistics2 and its accompanying modules, as well as a repaint of some material assets.
+This is a backport of highlight material assets from Applied Energistics 2 and its accompanying modules, along with a repaint of some material assets.
 
 ## Main changes
-1. The display components, upgrade card slots, and network tool card slot packages are no longer separated from the terminal.
-2. The network tool card slot package is adapted to the GUI of all work blocks as much as possible (a large number of texture packs have not completed this work).
-3. Redraw AE2Additions material is a highlight style material.
-4. Adjust the GUI such as terminal slots to make it more aesthetically pleasing.
-5. Redraw the materials of some niche modules to make them more like bright-colored AE equipment.
-6. Draw a few items exclusive to the creative mode as dynamic materials.
-7. Modified the shortcut inventory style.
-8. Yes, this texture pack was born entirely for the aesthetic effect, so it does not fully comply with the painting rules and styles of AE2 highlight materials, but I tried my best to draw, it is a matter of ability.
+1. Display components, upgrade card slots, and network tool card slot textures are no longer separated from the terminal.
+2. The network tool card slot texture has been adapted to match the GUI of all work blocks as much as possible (many texture packs have not yet achieved this).
+3. AE2Additions materials have been redrawn in a highlight style.
+4. Terminal slot GUIs and similar interfaces have been adjusted for improved aesthetics.
+5. Materials of some niche modules have been redrawn to better resemble bright-colored AE equipment.
+6. A few creative-mode-exclusive items have been given dynamic textures.
+7. The shortcut bar style has been modified.
+8. Yes, this texture pack was created entirely for aesthetic purposes. Therefore, it does not fully comply with the drawing rules and style guidelines of AE2 highlight materials, but I did my best—this is a matter of ability.
 
 ## Compatible mods
 
@@ -217,7 +217,6 @@ This is a backport of highlight material assets from AppliedEnergistics2 and its
 - **Original mod**: <https://github.com/reo-ar/InvTweaksRenewed>
 
 ### 43. Modern AE2 Additions
-- Currently every texture/model in here is just a color shifted version of AE2's texture. Full credits to the original artists, not gonna take credit for hue shifting a crafting cpu
 - (c) 2020, [Ridanisaurus Rid](https://github.com/Ridanisaurus/), (c) 2013 - 2020 AlgorithmX2 et al
 - [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/3.0/)  
   All other resources (including new textures/models if added) are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
