@@ -49,7 +49,7 @@
   10. ME Requester
       * Refer to Applied Energistics 2
   11. AppliedE
-      * All assets are licensed under [CC BY-NC-SA 3.0][by-nc-sa-3.0], in adherence to the same license used by AE2 and with
+      * All assets are licensed under [CC BY-NC-SA 3.0], in adherence to the same license used by AE2 and with
       most deriving from AE2's and ProjectE's own assets. Some assets have been provided externally as courtesy of
       [Sea_Kerman](https://modrinth.com/user/Sea_Kerman).
   12. ExtendedAE_plus
@@ -124,7 +124,7 @@
 39. ExtendedTerminal
     * Refer to Applied Energistics 2
     - Assets
-      AE2: [See Details ![Badge](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-green?style=flat-square)](readme/ae2-license.md)
+      AE2: [See Details ![Badge](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-green?style=flat-square)]
 40. gtlcore
     * Refer to Applied Energistics 2
 41. IFSoulsDisks
