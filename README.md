@@ -1,4 +1,4 @@
-# AE2_bright_assets_and_redraws
+# AE2 bright assets and redraws
   This is a backport of highlight material assets from AppliedEnergistics2 and its accompanying modules, as well as a repaint of some material assets.
 # Main changes: 
   1. The display components, upgrade card slots, and network tool card slot packages are no longer separated from the terminal.
@@ -121,7 +121,48 @@
       * Refer to Applied Energistics 2
   38. Expanded AE
       * Refer to Applied Energistics 2
-39. 
+39. ExtendedTerminal
+    * Refer to Applied Energistics 2
+    - Assets
+      AE2: [See Details ![Badge](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-green?style=flat-square)](readme/ae2-license.md)
+40. gtlcore
+    * Refer to Applied Energistics 2
+41. IFSoulsDisks
+    *  MIT License
+42. infinitypattern
+    *  MIT License
+43. invtweaks
+    *  MIT License
+    * Completely redrawn, not affected by the project license. This redrawn texture is licensed under MIT.
+44. Modern AE2 Additions
+    * Currently every texture/model in here is just a color shifted version of AE2's
+      texture. Full credits to the original artists, not gonna take credit for hue
+      shifting a crafting cpu
+    - (c) 2020, [Ridanisaurus Rid](https://github.com/Ridanisaurus/), (c) 2013 - 2020 AlgorithmX2 et al
+    - [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+    All other resources (including new textures/models if added) are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+45. More AE2 Additions
+    * Refer to Applied Energistics 2
+46. MEInfinityCell
+    *  MIT License
+47. MEPlacementTool
+    - **GUI Textures**: Modified based on **Applied Energistics 2** textures.
+      - Copyright (c) 2020, Ridanisaurus Rid
+      - Copyright (c) 2013 - 2020 AlgorithmX2 et al
+      - License: **[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)**
+
+    - **Item Models and Textures**: Created by **_leng (麦淇淋)**.
+        - Copyright (c) 2025-2026 _leng
+        - License: **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**
+48. ProgrammedCircuitCard
+    *  MIT License
+49. personalmesystem
+    *  MIT License
+50. Polymorph
+    *  GNU LGPL V3.0 License
+51. Wildcard Pattern
+    *  MIT License
+
 # Quote：
   1. Original Applied Energistics2 Mod : https://github.com/AppliedEnergistics/Applied-Energistics-2
   2. Original AdvancedAE Mod : https://github.com/pedroksl/AdvancedAE
@@ -161,6 +202,19 @@
   36. BetterModificationTool : https://github.com/Savitor-SN/BetterModificationTool
   37. BetterP2P : https://github.com/LasmGratel/BetterP2P
   38. Expanded AE : https://github.com/ko-lja/expandedae
+39. ExtendedTerminal : https://github.com/mc-myo-s-mod/ExtendedTerminal
+40. gtlcore : https://github.com/EasterFG/GTLCore
+41. IFSoulsDisks : https://github.com/Rerurate514/IFSoulsDisks
+42. infinitypattern ： https://github.com/2884omgpy/Infinity_Pattern_Provider
+43. invtweaks ：https://github.com/reo-ar/InvTweaksRenewed
+44. Modern AE2 Additions ： https://github.com/Monifactory/MAE2
+45. More AE2 Additions ：https://github.com/EasterFG/More-AE2-Additions
+46. MEInfinityCell ： https://github.com/Y-Xiao233/MEInfinityCell
+47. MEPlacementTool ： https://github.com/MOAKIEE/ME-Placement-Tool
+48. ProgrammedCircuitCard ：https://github.com/yuuki1293/ProgrammedCircuitCard
+49. personalmesystem ： https://github.com/game-design-driven/ae2-personal-me-system
+50. Polymorph ：https://github.com/illusivesoulworks/polymorph
+51. Wildcard Pattern ： https://github.com/LeoDreamer2004/Wildcard-Pattern
 
 # picture
 Oh no, I don't know how to upload it yet. . . .
