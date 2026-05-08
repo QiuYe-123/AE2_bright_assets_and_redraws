@@ -1,0 +1,25 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with _leng",
+	"parent": "block/cube_all",
+	"textures": {
+		"1": "ae2_ftbquest_detector:block/me_quests_detector_side",
+		"2": "ae2_ftbquest_detector:block/me_quests_detector_bottom",
+		"all": "ae2_ftbquest_detector:block/me_quests_detector",
+		"particle": "ae2_ftbquest_detector:block/me_quests_detector_side"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#all"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#2"}
+			}
+		}
+	]
+}
