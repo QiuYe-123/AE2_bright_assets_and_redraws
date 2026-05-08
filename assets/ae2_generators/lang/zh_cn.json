@@ -1,0 +1,8 @@
+{
+  "block.ae2_generators.heat_generator": "热量发生器",
+  "item_group.ae2_generators.ae_2_generators": "AE2 发生器",
+  "block.ae2_generators.lightning_generator": "雷电发生器",
+  "block.ae2_generators.solar_panel": "太阳能电池板",
+  "block.ae2_generators.solar_generator": "太阳能发电机",
+  "block.ae2_generators.wind_generator": "风力发电机"
+}

@@ -1,0 +1,26 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with _leng",
+	"parent": "block/cube",
+	"render_type": "solid",
+	"textures": {
+		"particle": "ae2_generators:block/lightning_generator_bottom",
+		"down": "ae2_generators:block/lightning_generator_bottom",
+		"up": "ae2_generators:block/lightning_generator_top_off",
+		"west": "ae2_generators:block/lightning_generator_side_off"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#west", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#west", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#west", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#west", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#up", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#down", "cullface": "down"}
+			}
+		}
+	]
+}
