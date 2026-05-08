@@ -10,54 +10,104 @@
   7. Modified the shortcut inventory style.
   8. Yes, this texture pack was born entirely for the aesthetic effect, so it does not fully comply with the painting rules and styles of AE2 highlight materials, but I tried my best to draw, it is a matter of ability.
 # Compatible mods:
-  1. Applied_Energistics2
+  1. Applied Energistics2
+     * Textures and Models
+       - (c) 2020, [Ridanisaurus Rid](https://github.com/Ridanisaurus/), (c) 2013 - 2020 AlgorithmX2 et al
+       - [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+     * Text and Translations
+         - [![License](https://img.shields.io/badge/License-No%20Restriction-green.svg?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
+     * Additional Sound Licenses
+         - Guidebook Click Sound
+             - [EminYILDIRIM](https://freesound.org/people/EminYILDIRIM/sounds/536108/)
+             - [![License](https://img.shields.io/badge/License-CC%20BY%204.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
   2. AdvancedAE
+     * Refer to Applied Energistics 2
   3. ExtendedAE
-  4. AE_Additions
-  5. Applied_Energistics_2_wireless_Terminals
-  6. Applied_Flux
+     * Textures and Models
+        - [Sea_Kerman](https://github.com/Sea-Kerman)
+  4. AE Additions
+      * Refer to Applied Energistics 2
+  5. Applied Energistics 2 wireless Terminals
+     * Textures
+       - (c) 2021, [Ridanisaurus Rid](https://github.com/Ridanisaurus/)
+       - [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+       - based on [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) Textures
+       - (c) 2020, [Ridanisaurus Rid](https://github.com/Ridanisaurus/), (c) 2013 - 2020 AlgorithmX2 et al
+       - [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+
+     * Text and Translations
+       - [![License](https://img.shields.io/badge/License-No%20Restriction-green.svg?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
+  6. Applied Flux
+      * Refer to ExtendedAE
   7. MEGA_Cells
-  8. Applied_Botanics_Addon
-  9. Applied_Mekanistics
-  10. ME_Requester
+     - [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+     All assets are licensed under [CC BY-NC-SA 3.0], in adherence to the same license used by AE2 and with most deriving from AE2's own assets.
+  8. Applied Botanics Addon
+      - [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+  9. Applied Mekanistics
+      - [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+  10. ME Requester
+      * Refer to Applied Energistics 2
   11. AppliedE
+      * All assets are licensed under [CC BY-NC-SA 3.0][by-nc-sa-3.0], in adherence to the same license used by AE2 and with
+      most deriving from AE2's and ProjectE's own assets. Some assets have been provided externally as courtesy of
+      [Sea_Kerman](https://modrinth.com/user/Sea_Kerman).
   12. ExtendedAE_plus
-  13. ME_Beam_Former
+      * Refer to Applied Energistics 2
+  13. ME Beam Former
+      * Refer to Applied Energistics 2
   14. AE_Wireless_Transceiver
-  15. AE2_Toggleable_View_Cell
+      * Refer to Applied Energistics 2
+  15. AE2 Toggleable View Cell
+      * Texture License
+        The textures used in this mod are derived from resources available in the [Applied Energistics 2 repository](https://github.com/AppliedEnergistics/Applied-Energistics-2/tree/1.21.1), specifically from the`1.21.1` branch, and are licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).
   16. Useless_Mod
+      *  MIT License
   17. GTOEX——(Unpublished)
+      *  MIT License
   18. Ars Energistique
+      * Refer to Applied Energistics 2
+  19. AdvancedMemoryCard
+      * Refer to Applied Energistics 2
+  20. AE2 Generators
+      * Refer to Applied Energistics 2
+  21. AE2MEGAThings
+      * Assets and Their Licenses
+        The textures in this mod are derived from the following projects:
+      - [Applied-Energistics-2 repository `forge/1.20.1` branch](https://github.com/AppliedEnergistics/Applied-Energistics-2/tree/forge/1.20.1)  
+        Licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+      - [MEGACells repository `1.20` branch](https://github.com/62832/MEGACells/tree/1.20)  
+        Licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+      - [Applied-Mekanistics repository `dev/1.20.1` branch](https://github.com/AppliedEnergistics/Applied-Mekanistics/tree/dev/1.20.1)  
+        Licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+      - [AE2Things-Forge repository `1.2.1` tag](https://github.com/Technici4n/AE2Things-Forge/tree/1.2.1)  
+        Licensed under [MIT License](https://opensource.org/licenses/MIT)
+      - Thus, the textures in this mod are licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/), and their usage must comply with the terms of this license.
+    
 
 # Quote：
-  1. Original Applied_Energistics2 Mod : https://modrinth.com/mod/ae2，
-  2. Original AdvancedAE Mod : https://modrinth.com/mod/advancedae，
-  3. Original ExtenedAE Mod : https://modrinth.com/mod/extended-ae，
-  4. Original AE_Additions Mod : https://modrinth.com/mod/ae-additions，
-  5. Original Applied_Energistics_2_wireless_Terminals Mod : https://modrinth.com/mod/applied-energistics-2-wireless-terminals，
-  6. Original Applied_Flux Mod : https://www.curseforge.com/minecraft/mc-mods/applied-flux，
-  7. Original MEGA_Cells Mod : https://modrinth.com/mod/mega，
-  8. Original Applied_Botanics_Addon Mod : https://modrinth.com/mod/applied-botanics，
-  9. Original Applied_Mekanistics Mod : https://modrinth.com/mod/applied-mekanistics，
-  10. Original ME_Requester Mod : https://modrinth.com/mod/merequester，
-  11. Original AppliedE Mod : https://modrinth.com/mod/appliede，
-  12. Original ExtendedAE_plus Mod : https://modrinth.com/mod/extendedae-plus，
-  13. Original ME_Beam_Former Mod : https://modrinth.com/mod/me-beam-former，
-  14. Original AE_Wireless_Transceiver Mod : https://modrinth.com/mod/ae-wireless-transceiver，
-  15. Original AE2_Toggleable_View_Cell Mod : https://modrinth.com/mod/ae2-toggleable-viewcell，
-  16. Original Useless_Mod Mod : https://modrinth.com/mod/a-useless-mod，
-  17. Original ars_energistique Mod : https://modrinth.com/mod/ars-energistique
+  1. Original Applied Energistics2 Mod : https://github.com/AppliedEnergistics/Applied-Energistics-2
+  2. Original AdvancedAE Mod : https://github.com/pedroksl/AdvancedAE
+  3. Original ExtenedAE Mod : https://github.com/GlodBlock/ExtendedAE
+  4. Original AE Additions Mod : https://github.com/the9grounds/AE-Additions
+  5. Original Applied Energistics 2 wireless Terminals Mod : https://github.com/Mari023/AE2WirelessTerminalLibrary
+  6. Original Applied Flux Mod : https://github.com/GlodBlock/ExtendedAE/tree/appflux/1.21.1-neoforge
+  7. Original MEGA Cells Mod : https://github.com/62832/MEGACells
+  8. Original Applied Botanics Addon Mod : https://github.com/ramidzkh/Applied-Botanics
+  9. Original Applied Mekanistics Mod : https://github.com/AppliedEnergistics/Applied-Mekanistics
+  10. Original ME Requester Mod : https://github.com/AlmostReliable/merequester
+  11. Original AppliedE Mod : https://github.com/62832/AppliedE/
+  12. Original ExtendedAE_plus Mod : https://github.com/GaLicn/ExtendedAE_Plus
+  13. Original ME Beam Former Mod : https://modrinth.com/mod/me-beam-former，
+  14. Original AE Wireless Transceiver Mod : https://github.com/mynamexiaopiao/AE-Wireless-Transceiver
+  15. Original AE2 Toggleable View Cell Mod : https://github.com/Lapis256/AE2ToggleableViewCell
+  16. Original Useless_Mod Mod : https://modrinth.com/mod/a-useless-mod
+  17. GTOEX——(Unpublished) : https://github.com/LiN-lN/GTOEX/releases
+  18. Original ars_energistique Mod : https://github.com/62832/ArsEnergistique
+  19. AdvancedMemoryCard : https://github.com/suntide-20210418/AdvancedMemoryCard
+  20. AE2 Generators : https://github.com/ExpertTrout9232/AE2-Generators
+  21. AE2MEGAThings ： https://github.com/Lapis256/AE2MEGAThings
 
-# License：
- 1. The AE2 Backport folder is licensed under CC-BY-NC-SA-4.0，
- 2. The AdvancedAE Backport folder is licensed under LGPL 3.0，
- 3. The Extended AE2 Backport folder is licensed under LGPL 3.0，
- 4. The AE2WTLib Backport folder is licensed under CC-BY-NC-SA-4.0，
- 5. The AppliedE Backport folder is licensed under CC-BY-NC-SA-3.0，
- 6. The ME Requester Backport folder is licensed under LGPL 3.0，
- 7. The resources of ME_Beam_Former are hand-drawn and shared by the original author and allowed to be modified by me. Thanks to fish_dan，
- 8. And AE2 Light Mode Backport folder is licensed underAttribution-NonCommercial-ShareAlike 4.0 International，
- 9. Please forgive me for not finding more licenses for the materials, but the owners of all non-original resources and modified resources are their original authors, and the resources I redrawn also follow the MIT license，
 # picture
 Oh no, I don't know how to upload it yet. . . .
 
