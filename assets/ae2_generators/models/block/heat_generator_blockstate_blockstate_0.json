@@ -1,0 +1,26 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with _leng",
+	"parent": "block/cube",
+	"render_type": "solid",
+	"textures": {
+		"2": "ae2_generators:block/bottom",
+		"3": "ae2_generators:block/heat_generator_side_on",
+		"up": "ae2_generators:block/heat_generator_top_on",
+		"particle": "ae2_generators:block/heat_generator_side_on"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#up", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2", "cullface": "down"}
+			}
+		}
+	]
+}
