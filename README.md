@@ -65,7 +65,7 @@
       *  MIT License
   17. GTOEX——(Unpublished)
       *  MIT License
-  18. Ars Energistique
+  18. ArsEnergistique
       * Refer to Applied Energistics 2
   19. AdvancedMemoryCard
       * Refer to Applied Energistics 2
@@ -74,17 +74,54 @@
   21. AE2MEGAThings
       * Assets and Their Licenses
         The textures in this mod are derived from the following projects:
-      - [Applied-Energistics-2 repository `forge/1.20.1` branch](https://github.com/AppliedEnergistics/Applied-Energistics-2/tree/forge/1.20.1)  
-        Licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
-      - [MEGACells repository `1.20` branch](https://github.com/62832/MEGACells/tree/1.20)  
-        Licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
-      - [Applied-Mekanistics repository `dev/1.20.1` branch](https://github.com/AppliedEnergistics/Applied-Mekanistics/tree/dev/1.20.1)  
-        Licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
-      - [AE2Things-Forge repository `1.2.1` tag](https://github.com/Technici4n/AE2Things-Forge/tree/1.2.1)  
-        Licensed under [MIT License](https://opensource.org/licenses/MIT)
-      - Thus, the textures in this mod are licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/), and their usage must comply with the terms of this license.
-    
-
+        - [Applied-Energistics-2 repository `forge/1.20.1` branch](https://github.com/AppliedEnergistics/Applied-Energistics-2/tree/forge/1.20.1)  
+          Licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+        - [MEGACells repository `1.20` branch](https://github.com/62832/MEGACells/tree/1.20)  
+          Licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+        - [Applied-Mekanistics repository `dev/1.20.1` branch](https://github.com/AppliedEnergistics/Applied-Mekanistics/tree/dev/1.20.1)  
+          Licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+        - [AE2Things-Forge repository `1.2.1` tag](https://github.com/Technici4n/AE2Things-Forge/tree/1.2.1)  
+          Licensed under [MIT License](https://opensource.org/licenses/MIT)
+      * Thus, the textures in this mod are licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/), and their usage must comply with the terms of this license.
+  22. AE2 Crystal Science
+      * All Rights Reserved
+      * Authorization has been obtained
+  23. AE2 Import Export Card
+      *  MIT License
+  24. AE2 netanalyser
+      * Refer to Applied Energistics 2
+  25. AE2PatternEncodingAccessTerminal
+      * Refer to Applied Energistics 2
+  26. AE2Things
+      *  MIT License
+  27. AdditionalEntityAttributes
+      *  MIT License
+  28. aehelpers-more
+      *  MIT License
+  29. Applied-Extended-Crafting
+      * Refer to Applied Energistics 2
+  30. AppliedCooking
+      *  MIT License
+  31. Applied Create
+      * All Rights Reserved
+      * Authorization has been obtained
+  32. AppliedE
+      * All assets are licensed under [CC BY-NC-SA 3.0], in adherence to the same license used by AE2 and with
+      most deriving from AE2's and ProjectE's own assets. Some assets have been provided externally as courtesy of
+      [Sea_Kerman](https://modrinth.com/user/Sea_Kerman).
+  33. applied-sorting
+      *  MIT License
+  34. AppliedSoul
+      *  MIT License
+  35. AppliedWebTerminal
+      * Refer to Applied Energistics 2
+  36. BetterModificationTool
+      * Refer to Applied Energistics 2
+  37. BetterP2P
+      * Refer to Applied Energistics 2
+  38. Expanded AE
+      * Refer to Applied Energistics 2
+39. 
 # Quote：
   1. Original Applied Energistics2 Mod : https://github.com/AppliedEnergistics/Applied-Energistics-2
   2. Original AdvancedAE Mod : https://github.com/pedroksl/AdvancedAE
@@ -103,10 +140,27 @@
   15. Original AE2 Toggleable View Cell Mod : https://github.com/Lapis256/AE2ToggleableViewCell
   16. Original Useless_Mod Mod : https://modrinth.com/mod/a-useless-mod
   17. GTOEX——(Unpublished) : https://github.com/LiN-lN/GTOEX/releases
-  18. Original ars_energistique Mod : https://github.com/62832/ArsEnergistique
+  18. Original ArsEnergistique Mod : https://github.com/62832/ArsEnergistique
   19. AdvancedMemoryCard : https://github.com/suntide-20210418/AdvancedMemoryCard
   20. AE2 Generators : https://github.com/ExpertTrout9232/AE2-Generators
   21. AE2MEGAThings ： https://github.com/Lapis256/AE2MEGAThings
+  22. AE2 Crystal Science ： https://github.com/Frostbite-time/AE2-Crystal-Science
+  23. AE2 Import Export Card ： https://github.com/starforcraft/AE2-Import-Export-Card
+  24. AE2 netanalyser ： https://github.com/GlodBlock/ExtendedAE/tree/analyser/1.20.1-forge
+  25. AE2PatternEncodingAccessTerminal ：https://github.com/yuuki1293/AE2PatternEncodingAccessTerminal
+  26. AE2Things ： https://github.com/Technici4n/AE2Things-Forge
+  27. AdditionalEntityAttributes ： https://github.com/DaFuqs/AdditionalEntityAttributes
+  28. aehelpers-more ： https://github.com/mynamexiaopiao/aehelpers-more
+  29. Applied-Extended-Crafting ：https://github.com/GaLicn/Applied-Extended-Crafting
+  30. AppliedCooking ： https://github.com/Sebastrn/AppliedCooking
+  31. Applied Create ： https://www.curseforge.com/minecraft/mc-mods/applied-create
+  32. AppliedE ：https://github.com/62832/AppliedE
+  33. applied-sorting ： https://github.com/Meatwo310/applied-sorting
+  34. AppliedSoul : https://github.com/Y-Xiao233/AppliedSoul
+  35. AppliedWebTerminal ：https://github.com/ZhuRuoLing/AppliedWebTerminal
+  36. BetterModificationTool : https://github.com/Savitor-SN/BetterModificationTool
+  37. BetterP2P : https://github.com/LasmGratel/BetterP2P
+  38. Expanded AE : https://github.com/ko-lja/expandedae
 
 # picture
 Oh no, I don't know how to upload it yet. . . .
